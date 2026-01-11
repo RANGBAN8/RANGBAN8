@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am currently a Master's student at the **School of Computer Science, Inner Mongolia University (IMU)**. 
+I am currently a Undergrad student at the **School of Computer Science, Inner Mongolia University (IMU)**. 
 My research interests focus on Artificial Intelligence, specifically:
 * **Machine Learning**
 * **Cross-modal Retrieval**
