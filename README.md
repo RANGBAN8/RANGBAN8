@@ -13,7 +13,7 @@ My research interests focus on Artificial Intelligence, specifically:
 ### 🎓 Education
 
 * **Inner Mongolia University (IMU)**
-    * *M.S. in Computer Science* (Current)
+    * *Undergrad student in Computer Science* (Current)
     
 ### 📫 Connect with me
 
