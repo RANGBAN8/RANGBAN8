@@ -20,4 +20,4 @@ My research interests focus on Artificial Intelligence, specifically:
 * 📧 **Email:** [0231121857@mail.imu.edu.cn](mailto:0231121857@mail.imu.edu.cn)
 * 📍 **Location:** Hohhot, Inner Mongolia, China
 
-![Aoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=minimal)
+![Aoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=RANGBAN8&show_icons=true&theme=minimal)
