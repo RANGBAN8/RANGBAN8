@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Aoran Yang 👋
 
-<!--
-**RANGBAN8/RANGBAN8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I am currently a Master's student at the **School of Computer Science, Inner Mongolia University (IMU)**. 
+My research interests focus on Artificial Intelligence, specifically:
+* **Machine Learning**
+* **Cross-modal Retrieval**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🎓 Education
+
+* **Inner Mongolia University (IMU)**
+    * *M.S. in Computer Science* (Current)
+    
+### 📫 Connect with me
+
+* 📧 **Email:** [0231121857@mail.imu.edu.cn](mailto:0231121857@mail.imu.edu.cn)
+* 📍 **Location:** Hohhot, Inner Mongolia, China
+
+![Aoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=minimal)
